@@ -52,7 +52,7 @@ The dataset contains the following fields:
 The Coffee Shop Performance Dashboard offers a comprehensive view of sales and profitability. It helps stakeholders monitor performance, identify trends, and optimize business strategies effectively.
 
 ## 👩‍💻 Created By
-**Mounika**  
+**Mounika M**  
 Final Year BCA Student  
 St. Francis College, Bangalore  
 
